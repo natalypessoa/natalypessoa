@@ -21,4 +21,11 @@ Me chamo Nataly Pessoa, tenho 19 anos e moro em São Paulo. Conclui o ensino med
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/natalypessoa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
+
+        </p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
   
