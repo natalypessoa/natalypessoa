@@ -14,7 +14,6 @@ Me chamo Nataly Pessoa, tenho 19 anos e moro em São Paulo. Conclui o ensino med
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-
-* 🔗 [Meu LinkedIn](https://www.linkedin.com/in/nataly-pessoa-de-paula-cruz-16982627b/)
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</p>
