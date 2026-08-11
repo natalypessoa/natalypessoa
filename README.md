@@ -27,17 +27,10 @@ Me chamo Nataly Pessoa, tenho 19 anos e moro em São Paulo. Conclui o ensino med
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/natalypessoa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-        <a href= "mailto:nanappcruz@gmail.com">
-          <img 
-             alt="Email" 
-            title="Conecte-se comigo no Email"
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            />
-
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🤖 Linguagens e Tecnologias
 
 <img
    align="left" 
