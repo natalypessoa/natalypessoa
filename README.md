@@ -32,7 +32,7 @@ Me chamo Nataly Pessoa, tenho 19 anos e moro em São Paulo. Conclui o ensino med
     alt="MySQL" 
     title="MySQL"
     width="30px" 
-    style="padding-right: 10px;"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+    style="padding-right: 10px;"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
 
 
